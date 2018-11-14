@@ -1,0 +1,18 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "hey",
+    "start": "app.js"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0"
+  }
+}
